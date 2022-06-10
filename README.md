@@ -1,4 +1,4 @@
-# python-bitcoinlib
+# python-safelib
 
 This Python3 library provides an easy interface to the bitcoin data
 structures and protocol. The approach is low-level and "ground up", with a
