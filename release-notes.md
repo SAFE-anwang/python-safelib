@@ -1,4 +1,9 @@
-# python-bitcoinlib release notes
+# python-safelib release notes
+
+## v0.11.0 
+
+python-safelib
+New maintainer: <support@anwang.com>
 
 ## v0.11.0
 
