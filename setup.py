@@ -11,17 +11,17 @@ with open(os.path.join(here, 'README.md')) as f:
 
 requires = []
 
-setup(name='python-bitcoinlib',
+setup(name='python-safelib',
       version=__version__,
-      description='The Swiss Army Knife of the Bitcoin protocol.',
+      description='The Swiss Army Knife of the SAFE protocol.',
       long_description=README,
       long_description_content_type='text/markdown',
       classifiers=[
           "Programming Language :: Python",
           "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
       ],
-      url='https://github.com/petertodd/python-bitcoinlib',
-      keywords='bitcoin',
+      url='https://github.com/SAFE-anwang/python-safelib',
+      keywords='safe',
       packages=find_packages(),
       zip_safe=False,
       install_requires=requires,
